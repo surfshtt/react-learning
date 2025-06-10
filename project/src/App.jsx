@@ -1,6 +1,6 @@
 
 import './App.css'
-import DecryptedText from "./DecryptedText.jsx";
+import DecryptedText from "./DecryptedTextAnim.jsx";
 function App() {
 
 
